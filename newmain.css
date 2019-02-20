@@ -1,0 +1,18 @@
+
+h1 {
+  background-color: yellow;
+}
+body {
+  Background-color: tan;
+}
+h2 {
+  font-family: Impact, Charcoal, sans-serif;
+}
+<div id="summary">
+<p> The Pancakes are so healthy and easy to make, your whole family is going to want to know the secret to these mouth watering cakes.)</i>.</p>
+</div>
+div {
+  -webkit-column-rule-color: #ff0000; /* Chrome, Safari, Opera */
+  -moz-column-rule-color: #ff0000; /* Firefox */
+  column-rule-color: #ff0000;
+}
